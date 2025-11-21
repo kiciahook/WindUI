@@ -11,7 +11,7 @@ lune = "=0.10.4"
 
 [target]
 environment = "roblox"
-lib = "lib/Init.lua"
+lib = "lib/init.luau"
 build_files = ["lib"]
 
 [indices]
