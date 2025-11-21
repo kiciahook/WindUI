@@ -7,8 +7,8 @@
       "$path": "roblox_packages"
     },
 
-    "lib": {
-      "$path": "lib"
+    "src": {
+      "$path": "src"
     }
   }
 }

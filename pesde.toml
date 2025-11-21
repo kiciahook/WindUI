@@ -3,7 +3,7 @@ version = "0.0.0"
 license = "MIT"
 description = "Unofficial pesde package for WindUI"
 
-includes = ["pesde.toml", "README.md", "LICENSE", "lib/**/*.lua"]
+includes = ["pesde.toml", "README.md", "LICENSE", "src/**/*.luau"]
 
 [engines]
 pesde = "^0.7.1"
@@ -11,8 +11,8 @@ lune = "=0.10.4"
 
 [target]
 environment = "roblox"
-lib = "lib/init.luau"
-build_files = ["lib"]
+src = "src/init.luau"
+build_files = ["src"]
 
 [indices]
 default = "https://github.com/pesde-pkg/index"
