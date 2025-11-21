@@ -1,0 +1,10 @@
+{
+  "aliases": {
+    "pkgs": "./roblox_packages"
+  },
+  "globals": [],
+  "languageMode": "strict",
+  "lint": {},
+  "lintErrors": true,
+  "typeErrors": true
+}
