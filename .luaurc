@@ -1,8 +1,4 @@
 {
-  "aliases": {
-    "src": "./src",
-    "pkgs": "./roblox_packages"
-  },
   "globals": [],
   "languageMode": "strict",
   "lint": {},

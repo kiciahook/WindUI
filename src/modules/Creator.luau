@@ -12,7 +12,7 @@ local RenderStepped = RunService.Heartbeat
 
 local IconsURL = "https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua"
 
-local Icons = require("@pkgs/windui_icons")
+local Icons = require("../../roblox_packages/windui_icons")
 Icons.SetIconsType("lucide")
 
 local WindUI
