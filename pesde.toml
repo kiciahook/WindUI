@@ -22,7 +22,7 @@ roblox_sync_config_generator = ".pesde/scripts/roblox_sync_config_generator.luau
 sourcemap_generator = ".pesde/scripts/sourcemap_generator.luau"
 
 [dependencies]
-windui_icons = { repo = "kiciahook/windui-icons", rev = "7cdcb6b01a95b1a61c88003dcebf8481c757535a", target = "luau" }
+windui_icons = { repo = "kiciahook/windui-icons", rev = "35cc3d028b69142f42301b5b405ea8e144fd14f4", target = "luau" }
 
 [dev_dependencies]
 selene = { name = "pesde/selene", version = "^0.29.0", target = "lune" }
