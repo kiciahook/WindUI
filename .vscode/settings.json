@@ -36,30 +36,30 @@
     "editor.formatOnSave": false,
     "editor.tabSize": 4,
     "editor.indentSize": "tabSize",
-    "editor.detectIndentation": false,
+    "editor.detectIndentation": false
   },
   "[luau]": {
     "editor.defaultFormatter": "JohnnyMorganz.stylua",
     "editor.formatOnSave": true,
     "editor.tabSize": 4,
     "editor.indentSize": "tabSize",
-    "editor.detectIndentation": false,
+    "editor.detectIndentation": false
   },
   "[luaurc]": {
     "editor.tabSize": 2,
     "editor.indentSize": "tabSize",
-    "editor.detectIndentation": false,
+    "editor.detectIndentation": false
   },
   "[json]": {
     "editor.tabSize": 2,
     "editor.indentSize": "tabSize",
-    "editor.detectIndentation": false,
+    "editor.detectIndentation": false
   },
   "[toml]": {
     "editor.tabSize": 2,
     "editor.indentSize": "tabSize",
-    "editor.detectIndentation": false,
+    "editor.detectIndentation": false
   },
   "editor.insertSpaces": true,
-  "files.eol": "\n",
+  "files.eol": "\n"
 }
