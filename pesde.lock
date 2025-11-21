@@ -60,12 +60,12 @@ greentea = [{ name = "jiwonz/greentea_luau", version = "^0.2.0", index = "https:
 luau_path = [{ name = "jiwonz/luau_path", version = "^0.2.0", index = "https://github.com/pesde-pkg/index", target = "luau" }, "standard"]
 
 [graph."kiciahook/windui_icons@0.0.0 roblox"]
-direct = ["windui_icons", { repo = "https://github.com/kiciahook/windui-icons", rev = "7cdcb6b01a95b1a61c88003dcebf8481c757535a" }, "standard"]
+direct = ["windui_icons", { repo = "https://github.com/kiciahook/windui-icons", rev = "35cc3d028b69142f42301b5b405ea8e144fd14f4" }, "standard"]
 
 [graph."kiciahook/windui_icons@0.0.0 roblox".pkg_ref]
 ref_ty = "git"
 repo = "https://github.com/kiciahook/windui-icons"
-tree_id = "539a762a49d9ed514b069ade3ce389caaa1648f9"
+tree_id = "3f98d1e5353d32d349d4f00f0ee3e0ed7904d90f"
 new_structure = true
 
 [graph."kiciahook/windui_icons@0.0.0 roblox".pkg_ref.dependencies]
