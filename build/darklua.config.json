@@ -1,6 +1,6 @@
 {
     "bundle": {
-        "require_mode": "path"
+        "require_mode": "hybrid"
     },
     "generator": {
 		"name": "dense",
