@@ -15,6 +15,7 @@ dist-ssr
 .env.example
 
 build/.init.lua
+sourcemap.json
 
 # Editor directories and files
 .vscode/*
