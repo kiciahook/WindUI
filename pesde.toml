@@ -1,0 +1,24 @@
+name = "kiciahook/windui"
+version = "0.1.0"
+license = "MIT"
+description = "Unofficial pesde package for WindUI"
+
+includes = ["pesde.toml", "README.md", "LICENSE", "src/**/*.lua"]
+
+[engines]
+pesde = "^0.7.1"
+lune = "=0.10.4"
+
+[target]
+environment = "roblox"
+lib = "src/Init.lua"
+build_files = ["src"]
+
+[indices]
+default = "https://github.com/pesde-pkg/index"
+
+[dependencies]
+windui_icons = { repo = "kiciahook/windui-icons", rev = "b0e355a85dbbc2ba774b6cd4afe6720f6a0deb31" }
+
+[dev_dependencies]
+darklua = { repo = "Stefanuk12/darklua", rev = "a1ac53a49d4c2e44e9bf28e95185e3f14c9892c4", target = "lune" }
