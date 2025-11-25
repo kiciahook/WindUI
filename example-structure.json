@@ -2576,12 +2576,12 @@
                             "__type": "Button"
                         },
                         {
-                            "Desc": "github.com/Footagesus/WindUI",
+                            "Desc": "github.com/kiciahook/WindUI",
                             "Destroy": "function",
                             "Locked": false,
                             "ParagraphFrame": {
                                 "Color": "Grey",
-                                "Desc": "github.com/Footagesus/WindUI",
+                                "Desc": "github.com/kiciahook/WindUI",
                                 "Destroy": "function",
                                 "Hover": false,
                                 "IconThemed": false,
