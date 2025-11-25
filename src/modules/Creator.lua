@@ -9,12 +9,7 @@ local HttpService = cloneref(game:GetService("HttpService"))
 
 local RenderStepped = RunService.Heartbeat
 
-local IconsURL = "https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua"
-
-local Icons = loadstring(
-    game.HttpGetAsync and game:HttpGetAsync(IconsURL)
-    or HttpService:GetAsync(IconsURL) --studio
-)()
+local Icons = require("../../roblox_packages/windui_icons")
 Icons.SetIconsType("lucide")
 
 local WindUI
